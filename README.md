@@ -1,1 +1,1 @@
-# dataset
+# EIGait dataset
